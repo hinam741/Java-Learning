@@ -4,7 +4,7 @@ package Introduction;
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Java_Currency_Formatter {
+public class Java_Currency_Formatter_Sample {
     public static void main(String[] args) {
         double amount = 12345.67;
 
