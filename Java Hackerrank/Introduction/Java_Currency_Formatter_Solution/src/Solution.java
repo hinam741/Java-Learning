@@ -1,6 +1,4 @@
 //Giải bài toán định dạng tiền tệ sử dụng phương thức Phương thức public static NumberFormat getCurrencyInstance(Locale inLocale)
-package Introduction;
-
 import java.util.*;
 import java.text.*;
 

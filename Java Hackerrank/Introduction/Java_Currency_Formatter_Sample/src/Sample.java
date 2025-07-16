@@ -1,10 +1,9 @@
 //Bài toán mẫu định dạng tiền tệ sử dụng phương thức Phương thức public static NumberFormat getCurrencyInstance(Locale inLocale)
-package Introduction;
 
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Java_Currency_Formatter_Sample {
+public class Sample {
     public static void main(String[] args) {
         double amount = 12345.67;
 
